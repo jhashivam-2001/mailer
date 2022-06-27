@@ -50,7 +50,7 @@ export default function Home() {
           </style>
           <form id="f" method="post">
             <p>
-              <label htmlFor='name'>Sender's Name</label>
+              <label htmlFor='name'>Sender Name</label>
               <input type="text" name="name" />
             </p>
             <p>
